@@ -1,5 +1,7 @@
 # Teen 3D Printing Class — Teacher Repo
 
+This repo and the corresponding "Student" repo will be updated as my actual class progresses. I will do my best to keep everything up to date and changes tracked.
+
 This is an open-source outline for starting a 3D printing class.
 
 It is a starting point, not a finished script you have to follow word for word. Copy it, teach from it, and change it to fit your students, your printer, and your time.
